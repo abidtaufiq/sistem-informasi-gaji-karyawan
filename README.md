@@ -10,9 +10,9 @@ Aplikasi sistem informasi gaji karyawan berbasis web dengan menggunakan framewor
 ![ss](assets/ss6.png)
 
 ## Login Aplikasi
-|    User     | Email | Password |
-|:-----------:|:-----:|:--------:|
-| Nur Wahyuda | admin |  admin   |
+| Username | Password |
+|:--------:|---------:|
+|  admin   |  admin   |
 
 ## Fitur Aplikasi :
 - Halaman FrontEnd
